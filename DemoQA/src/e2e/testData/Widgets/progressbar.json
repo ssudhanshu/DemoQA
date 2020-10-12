@@ -1,0 +1,13 @@
+{
+    "grpName": "Widgets",
+    "grpNameHeader": "Widgets",
+    "itemName": "Progress Bar",
+    "pageHeader": "Progress Bar",
+    "initialProgressVal": "0",
+    "maxProgressVal": "100",
+    "stopProgressAt" : "50",
+    "startBtnTxt": "Start",
+    "stopBtnTxt": "Stop",
+    "resetBtnTxt": "Reset"
+    
+}

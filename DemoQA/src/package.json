@@ -1,0 +1,40 @@
+{
+  "name": "@demoqa/ui-test-automation",
+  "scripts": {
+    "prerequisite": "webdriver-manager update",
+    "runtests": "gulp clean && gulp build-e2e && protractor protractor.conf.js"
+  },
+  "devDependencies": {
+    "@types/highcharts": "5.0.13",
+    "@types/jasmine": "2.8.9",
+    "@types/node": "10.12.2",
+    "@types/selenium-webdriver": "^2.53.32",
+    "del": "3.0.0",
+    "dotenv": "7.0.0",
+    "faker": "4.1.0",
+    "gulp": "3.9.1",
+    "gulp-load-plugins": "1.5.0",
+    "gulp-typescript": "3.2.1",
+    "gulp-watch": "4.3.11",
+    "jasmine-core": "2.99.1",
+    "jasmine-data-provider": "2.2.0",
+    "jasmine-fail-fast": "2.0.0",
+    "jasmine-json-test-reporter": "^1.0.0-beta",
+    "jasmine-reporters": "^2.0.0",
+    "jasmine-spec-reporter": "4.2.1",
+    "protractor": "5.4.2",
+    "protractor-beautiful-reporter": "1.2.7",
+    "protractor-html-reporter": "1.3.2",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "require-dir": "0.3.2",
+    "run-sequence": "2.0.0",
+    "shelljs": "0.8.2",
+    "typescript": "3.1.6",
+    "typings": "2.1.1",
+    "webdriverjs-retry": "0.2.0",
+    "xmlreader": "0.2.3",
+    "log4js": "^4.0.2",
+    "log4js-protractor-appender": "^1.1.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "grpName": "Elements",
+    "grpNameHeader": "Elements",
+    "itemName": "Check Box",
+    "pageHeader": "Check Box",
+    "checkBoxGroups":{
+        "home": "Home",
+        "documents": "Documents",
+        "workSpace": "WorkSpace"
+    },
+    "selectCheckboxes": [
+        "React",
+        "Angular"
+    ]
+}

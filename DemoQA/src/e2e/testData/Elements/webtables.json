@@ -1,0 +1,20 @@
+{
+    "grpName": "Elements",
+    "grpNameHeader": "Elements",
+    "itemName": "Web Tables",
+    "pageHeader": "Web Tables",
+    "addBtnText": "Add",
+    "registrationFormHeader": "Registration Form",
+    "registrationFormLabels":{
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "age": "Age",
+        "salary": "Salary",
+        "department": "Department"
+    },
+    "firstNameMaxLength" : "25",
+    "ageMaxLength" : "2",
+    "emailPattern": "^([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})$",
+    "submitBtnTxt": "Submit"
+}

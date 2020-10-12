@@ -1,0 +1,1789 @@
+{
+    "suite1": {
+        "id": "suite1",
+        "description": "ELEMENTS -> CHECK BOX",
+        "fullName": "ELEMENTS -> CHECK BOX",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec0",
+                "description": "Go to \"Elements\" section",
+                "fullName": "ELEMENTS -> CHECK BOX Go to \"Elements\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:28:57.599Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:28:59.210Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec1",
+                "description": "Validate section page header",
+                "fullName": "ELEMENTS -> CHECK BOX Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:28:59.239Z",
+                "status": "passed",
+                "duration": "0.411 sec",
+                "stopped": "2020-10-12T17:28:59.622Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec2",
+                "description": "Click Check Box option from left-pannel menu",
+                "fullName": "ELEMENTS -> CHECK BOX Click Check Box option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:28:59.626Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:01.212Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec3",
+                "description": "Validate Page header",
+                "fullName": "ELEMENTS -> CHECK BOX Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:01.216Z",
+                "status": "passed",
+                "duration": "0.379 sec",
+                "stopped": "2020-10-12T17:29:01.591Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec4",
+                "description": "Expand checkboxes: Home->Documents->Workspace ",
+                "fullName": "ELEMENTS -> CHECK BOX Expand checkboxes: Home->Documents->Workspace ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:01.595Z",
+                "status": "passed",
+                "duration": "4 secs",
+                "stopped": "2020-10-12T17:29:05.282Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec5",
+                "description": "Select checkboxes: React,Angular",
+                "fullName": "ELEMENTS -> CHECK BOX Select checkboxes: React,Angular",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:05.286Z",
+                "status": "passed",
+                "duration": "3 secs",
+                "stopped": "2020-10-12T17:29:07.907Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec6",
+                "description": "Validate the selected checkboxes ",
+                "fullName": "ELEMENTS -> CHECK BOX Validate the selected checkboxes ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:07.911Z",
+                "status": "passed",
+                "duration": "0.377 sec",
+                "stopped": "2020-10-12T17:29:08.284Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite4": {
+        "id": "suite4",
+        "description": "Create Registration Form",
+        "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec7",
+                "description": "Go to \"Elements\" section",
+                "fullName": "ELEMENTS -> WEB TABLES Go to \"Elements\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:11.029Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:12.605Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec8",
+                "description": "Validate section page header",
+                "fullName": "ELEMENTS -> WEB TABLES Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:12.610Z",
+                "status": "passed",
+                "duration": "0.369 sec",
+                "stopped": "2020-10-12T17:29:12.974Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec9",
+                "description": "Click Web Tables option from left-pannel menu",
+                "fullName": "ELEMENTS -> WEB TABLES Click Web Tables option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:12.977Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:14.591Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec10",
+                "description": "Validate Page header",
+                "fullName": "ELEMENTS -> WEB TABLES Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:14.595Z",
+                "status": "passed",
+                "duration": "0.363 sec",
+                "stopped": "2020-10-12T17:29:14.954Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec11",
+                "description": "Validate the presence of Web table",
+                "fullName": "ELEMENTS -> WEB TABLES Validate the presence of Web table",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:14.957Z",
+                "status": "passed",
+                "duration": "0.361 sec",
+                "stopped": "2020-10-12T17:29:15.315Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec12",
+                "description": "Validate and click on Add button",
+                "fullName": "ELEMENTS -> WEB TABLES Validate and click on Add button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:15.319Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:16.877Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec13",
+                "description": "Validate modal title",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Validate modal title",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:16.881Z",
+                "status": "passed",
+                "duration": "0.385 sec",
+                "stopped": "2020-10-12T17:29:17.262Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec14",
+                "description": "Enter First Name and validate Maximum length",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter First Name and validate Maximum length",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:17.266Z",
+                "status": "passed",
+                "duration": "0.569 sec",
+                "stopped": "2020-10-12T17:29:17.831Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec15",
+                "description": "Enter Last Name",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter Last Name",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:17.835Z",
+                "status": "passed",
+                "duration": "0.475 sec",
+                "stopped": "2020-10-12T17:29:18.306Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec16",
+                "description": "Enter Email and validate its Pattern",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter Email and validate its Pattern",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:18.310Z",
+                "status": "passed",
+                "duration": "0.491 sec",
+                "stopped": "2020-10-12T17:29:18.797Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec17",
+                "description": "Enter Age and validate Maximum length",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter Age and validate Maximum length",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:18.800Z",
+                "status": "passed",
+                "duration": "0.449 sec",
+                "stopped": "2020-10-12T17:29:19.246Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec18",
+                "description": "Enter Salary",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter Salary",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:19.250Z",
+                "status": "passed",
+                "duration": "0.446 sec",
+                "stopped": "2020-10-12T17:29:19.692Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec19",
+                "description": "Enter Department",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Enter Department",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:19.695Z",
+                "status": "passed",
+                "duration": "0.452 sec",
+                "stopped": "2020-10-12T17:29:20.145Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec20",
+                "description": "Click Submit button",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Create Registration Form Click Submit button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:20.149Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:21.735Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite5": {
+        "id": "suite5",
+        "description": "Validate Table data",
+        "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec21",
+                "description": "Filter by first name using Search box",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data Filter by first name using Search box",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:21.739Z",
+                "status": "passed",
+                "duration": "0.92 sec",
+                "stopped": "2020-10-12T17:29:22.656Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec22",
+                "description": "Validate each created data from the filtered row",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data Validate each created data from the filtered row",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:22.663Z",
+                "status": "passed",
+                "duration": "0.474 sec",
+                "stopped": "2020-10-12T17:29:23.130Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec23",
+                "description": "Clear filter",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data Clear filter",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:23.135Z",
+                "status": "passed",
+                "duration": "0.432 sec",
+                "stopped": "2020-10-12T17:29:23.562Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec24",
+                "description": "FETCH ANY VALUE FROM TABLE BY PROVIDING ANY VALUE FROM ROW AND COLUMN NAME",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data FETCH ANY VALUE FROM TABLE BY PROVIDING ANY VALUE FROM ROW AND COLUMN NAME",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:23.567Z",
+                "status": "passed",
+                "duration": "0.38 sec",
+                "stopped": "2020-10-12T17:29:23.942Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec25",
+                "description": "Validate Edit button presence",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data Validate Edit button presence",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:23.946Z",
+                "status": "passed",
+                "duration": "0.363 sec",
+                "stopped": "2020-10-12T17:29:24.306Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec26",
+                "description": "Validate Delete button functionality",
+                "fullName": "ELEMENTS -> WEB TABLES Registration Form Validate Table data Validate Delete button functionality",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:24.310Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:25.882Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite3": {
+        "id": "suite3",
+        "description": "Registration Form",
+        "fullName": "ELEMENTS -> WEB TABLES Registration Form",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": []
+    },
+    "suite2": {
+        "id": "suite2",
+        "description": "ELEMENTS -> WEB TABLES",
+        "fullName": "ELEMENTS -> WEB TABLES",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec27",
+                "description": "Validate the presence of Pagination bar",
+                "fullName": "ELEMENTS -> WEB TABLES Validate the presence of Pagination bar",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:25.886Z",
+                "status": "passed",
+                "duration": "0.372 sec",
+                "stopped": "2020-10-12T17:29:26.255Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite6": {
+        "id": "suite6",
+        "description": "ELEMENTS -> UPLOAD AND DOWNLOAD",
+        "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec28",
+                "description": "Go to \"Elements\" section",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Go to \"Elements\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:28.978Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:30.543Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec29",
+                "description": "Validate section page header",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:30.548Z",
+                "status": "passed",
+                "duration": "0.368 sec",
+                "stopped": "2020-10-12T17:29:30.912Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec30",
+                "description": "Click Upload and Download option from left-pannel menu",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Click Upload and Download option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:30.916Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:32.481Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec31",
+                "description": "Validate Page header",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:32.486Z",
+                "status": "passed",
+                "duration": "0.365 sec",
+                "stopped": "2020-10-12T17:29:32.846Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec32",
+                "description": "Should download proper file",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Should download proper file",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:32.850Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:34.424Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec33",
+                "description": "Should be able to upload a file",
+                "fullName": "ELEMENTS -> UPLOAD AND DOWNLOAD Should be able to upload a file",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:34.435Z",
+                "status": "passed",
+                "duration": "0.565 sec",
+                "stopped": "2020-10-12T17:29:34.989Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite7": {
+        "id": "suite7",
+        "description": "ALERTS, FRAME & WINDOWS -> ALERTS",
+        "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec34",
+                "description": "Go to \"Alerts, Frame & Windows\" section",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Go to \"Alerts, Frame & Windows\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:37.661Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:39.231Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec35",
+                "description": "Validate section page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:39.246Z",
+                "status": "passed",
+                "duration": "0.385 sec",
+                "stopped": "2020-10-12T17:29:39.616Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec36",
+                "description": "Click Alerts option from left-pannel menu",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Click Alerts option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:39.620Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:41.183Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec37",
+                "description": "Validate Page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:41.188Z",
+                "status": "passed",
+                "duration": "0.377 sec",
+                "stopped": "2020-10-12T17:29:41.560Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec38",
+                "description": "Validate alert: \"Click Button to see alert\" ",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate alert: \"Click Button to see alert\" ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:41.564Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:43.139Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec39",
+                "description": "Validate alert: \"On button click, alert will appear after 5 seconds\" ",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate alert: \"On button click, alert will appear after 5 seconds\" ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:43.143Z",
+                "status": "passed",
+                "duration": "6 secs",
+                "stopped": "2020-10-12T17:29:49.216Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec40",
+                "description": "Validate alert: \"On button click, confirm box will appear\" ",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate alert: \"On button click, confirm box will appear\" ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:49.252Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:50.969Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec41",
+                "description": "Validate alert: \"On button click, prompt box will appear\" ",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate alert: \"On button click, prompt box will appear\" ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:50.973Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:52.563Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite8": {
+        "id": "suite8",
+        "description": "ALERTS, FRAME & WINDOWS -> ALERTS",
+        "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec42",
+                "description": "Go to \"Alerts, Frame & Windows\" section",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Go to \"Alerts, Frame & Windows\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:55.304Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:56.849Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec43",
+                "description": "Validate section page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:56.856Z",
+                "status": "passed",
+                "duration": "0.375 sec",
+                "stopped": "2020-10-12T17:29:57.225Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec44",
+                "description": "Click Browser Window option from left-pannel menu",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Click Browser Window option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:57.231Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:29:58.799Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec45",
+                "description": "Validate Page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:58.804Z",
+                "status": "passed",
+                "duration": "0.363 sec",
+                "stopped": "2020-10-12T17:29:59.162Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec46",
+                "description": "Navigate to new tab by clicking New Tab button",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Navigate to new tab by clicking New Tab button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:29:59.166Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:01.286Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec47",
+                "description": "Validate new tab page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate new tab page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:01.291Z",
+                "status": "passed",
+                "duration": "0.378 sec",
+                "stopped": "2020-10-12T17:30:01.664Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec48",
+                "description": "Close New Tab and get back to parent tab",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Close New Tab and get back to parent tab",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:01.668Z",
+                "status": "passed",
+                "duration": "0.048 sec",
+                "stopped": "2020-10-12T17:30:01.712Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec49",
+                "description": "Navigate to new window by clicking New Window button",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Navigate to new window by clicking New Window button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:01.717Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:03.962Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec50",
+                "description": "Validate new window page header",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate new window page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:03.966Z",
+                "status": "passed",
+                "duration": "0.364 sec",
+                "stopped": "2020-10-12T17:30:04.326Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec51",
+                "description": "Close New Window and get back to parent tab",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Close New Window and get back to parent tab",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:04.330Z",
+                "status": "passed",
+                "duration": "0.026 sec",
+                "stopped": "2020-10-12T17:30:04.352Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec52",
+                "description": "Navigate to new window by clicking New Window Message button",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Navigate to new window by clicking New Window Message button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:04.374Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:06.624Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec53",
+                "description": "Validate new window text message ",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Validate new window text message ",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "Temporarily disabled with xit",
+                "status": "pending",
+                "duration": "0.001 sec",
+                "started": "2020-10-12T17:30:06.629Z",
+                "stopped": "2020-10-12T17:30:06.629Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec54",
+                "description": "Close New Window Message and get back to parent tab",
+                "fullName": "ALERTS, FRAME & WINDOWS -> ALERTS Close New Window Message and get back to parent tab",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:06.632Z",
+                "status": "passed",
+                "duration": "0.028 sec",
+                "stopped": "2020-10-12T17:30:06.653Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite9": {
+        "id": "suite9",
+        "description": "WIDGETS -> DATE PICKER",
+        "fullName": "WIDGETS -> DATE PICKER",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec55",
+                "description": "Go to \"Widgets\" section",
+                "fullName": "WIDGETS -> DATE PICKER Go to \"Widgets\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:09.387Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:10.958Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec56",
+                "description": "Validate section page header",
+                "fullName": "WIDGETS -> DATE PICKER Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:10.964Z",
+                "status": "passed",
+                "duration": "0.367 sec",
+                "stopped": "2020-10-12T17:30:11.326Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec57",
+                "description": "Click Date Picker option from left-pannel menu",
+                "fullName": "WIDGETS -> DATE PICKER Click Date Picker option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:11.331Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:12.921Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec58",
+                "description": "Validate Page header",
+                "fullName": "WIDGETS -> DATE PICKER Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:12.928Z",
+                "status": "passed",
+                "duration": "0.364 sec",
+                "stopped": "2020-10-12T17:30:13.285Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec59",
+                "description": "Select date using Javascript executer",
+                "fullName": "WIDGETS -> DATE PICKER Select date using Javascript executer",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:13.289Z",
+                "status": "passed",
+                "duration": "0.009 sec",
+                "stopped": "2020-10-12T17:30:13.294Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec60",
+                "description": "Select date and time using Javascript executer",
+                "fullName": "WIDGETS -> DATE PICKER Select date and time using Javascript executer",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:13.299Z",
+                "status": "passed",
+                "duration": "0.009 sec",
+                "stopped": "2020-10-12T17:30:13.303Z",
+                "browserLogs": []
+            }
+        ]
+    },
+    "suite10": {
+        "id": "suite10",
+        "description": "WIDGETS -> PROGRESS BAR",
+        "fullName": "WIDGETS -> PROGRESS BAR",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec61",
+                "description": "Go to \"Widgets\" section",
+                "fullName": "WIDGETS -> PROGRESS BAR Go to \"Widgets\" section",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:15.978Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:17.536Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec62",
+                "description": "Validate section page header",
+                "fullName": "WIDGETS -> PROGRESS BAR Validate section page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:17.544Z",
+                "status": "passed",
+                "duration": "0.37 sec",
+                "stopped": "2020-10-12T17:30:17.906Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec63",
+                "description": "Click Progress Bar option from left-pannel menu",
+                "fullName": "WIDGETS -> PROGRESS BAR Click Progress Bar option from left-pannel menu",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:17.911Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:19.470Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec64",
+                "description": "Validate Page header",
+                "fullName": "WIDGETS -> PROGRESS BAR Validate Page header",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:19.476Z",
+                "status": "passed",
+                "duration": "0.361 sec",
+                "stopped": "2020-10-12T17:30:19.831Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec65",
+                "description": "Validate the presence of progress bar",
+                "fullName": "WIDGETS -> PROGRESS BAR Validate the presence of progress bar",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:19.835Z",
+                "status": "passed",
+                "duration": "0.357 sec",
+                "stopped": "2020-10-12T17:30:20.188Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec66",
+                "description": "Validate current value, minimum value and maximum value in the progress bar- should all be 0 by default",
+                "fullName": "WIDGETS -> PROGRESS BAR Validate current value, minimum value and maximum value in the progress bar- should all be 0 by default",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:20.192Z",
+                "status": "passed",
+                "duration": "0.054 sec",
+                "stopped": "2020-10-12T17:30:20.242Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec67",
+                "description": "Click Start button",
+                "fullName": "WIDGETS -> PROGRESS BAR Click Start button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:20.247Z",
+                "status": "passed",
+                "duration": "2 secs",
+                "stopped": "2020-10-12T17:30:21.799Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec68",
+                "description": "Click Reset button once Progress Bar reaches 100%",
+                "fullName": "WIDGETS -> PROGRESS BAR Click Reset button once Progress Bar reaches 100%",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:21.806Z",
+                "status": "passed",
+                "duration": "11 secs",
+                "stopped": "2020-10-12T17:30:32.863Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec69",
+                "description": "Validate current value after Reset- should be 0",
+                "fullName": "WIDGETS -> PROGRESS BAR Validate current value after Reset- should be 0",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    },
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "started": "2020-10-12T17:30:32.872Z",
+                "status": "passed",
+                "duration": "0.031 sec",
+                "stopped": "2020-10-12T17:30:32.894Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec70",
+                "description": "Click Start button",
+                "fullName": "WIDGETS -> PROGRESS BAR Click Start button",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "Temporarily disabled with xit",
+                "status": "pending",
+                "duration": "0.002 sec",
+                "started": "2020-10-12T17:30:32.900Z",
+                "stopped": "2020-10-12T17:30:32.900Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec71",
+                "description": "Stop progress bar at 50 %",
+                "fullName": "WIDGETS -> PROGRESS BAR Stop progress bar at 50 %",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toMatch",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "Temporarily disabled with xit",
+                "status": "pending",
+                "duration": "0 sec",
+                "started": "2020-10-12T17:30:32.906Z",
+                "stopped": "2020-10-12T17:30:32.906Z",
+                "browserLogs": []
+            }
+        ]
+    }
+}

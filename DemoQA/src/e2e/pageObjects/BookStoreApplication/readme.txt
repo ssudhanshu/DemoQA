@@ -1,0 +1,1 @@
+This folder contains page-objects for Book Store Application pages

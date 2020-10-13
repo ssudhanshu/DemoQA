@@ -1,6 +1,7 @@
 # DemoQA
-Project for automating DemoQA web application using Protractor
-Follow below steps to run this project on local:
+Project for automating DemoQA web application using Protractor.
+
+Please follow below steps to run this project on your local machine:
 
 Prerequisites:
 1. Install Node JS on your machine (preferable version 10.16.3)
@@ -14,4 +15,7 @@ Steps:
   - npm install
   - npm run prerequisite
   - npm run runtests
-4. You should see Chrome browser opening and running tests. Enjoy!
+4. You should see Chrome browser opening and running tests.
+5. Once tests are complete, you can find the html result of execution report at this location: /src/e2e/reports/results.html
+
+Thanks!
